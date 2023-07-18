@@ -1,0 +1,16 @@
+
+1)Historias de usuario y criterios de aceptación
+
+https://app.asana.com/0/1204778560511663/board
+
+ 
+
+2) Modelo entidad-relación normalizado
+
+https://lucid.app/lucidchart/c6f7b411-f617-4b91-9e0d-1d23532e2d55/edit?invitationId=inv_2f62069c-6a55-4e16-aef6-393cbd9f7378&page=0_0#
+
+ 
+
+3) Diccionario de datos indicando claramente los límites de cada tipo de dato
+
+https://docs.google.com/document/d/1eSaQhsD9Z2_DtH-0-nhxh9SThXQe4QsVkA0ulN7-eIc/edit?usp=sharing
